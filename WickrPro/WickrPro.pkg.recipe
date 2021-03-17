@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads WickrPro disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.bahrabd.pkg.WickrPro</string>
+    <string>com.github.bahrabd.pkg.wickrpro</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>GoogleChrome</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.bahrabd.download.WickrPro</string>
+    <string>com.github.bahrabd.download.wickrpro</string>
     <key>Process</key>
     <array>
         <dict>
