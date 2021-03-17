@@ -1,1 +1,1 @@
-# autopkg-recipe
+# autopkg recipes
